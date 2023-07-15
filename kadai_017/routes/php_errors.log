@@ -1,0 +1,4 @@
+[15-Jul-2023 15:32:14 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in C:\Work\public\laravel-posting-app\routes\web.php:17
+Stack trace:
+#0 {main}
+  thrown in C:\Work\public\laravel-posting-app\routes\web.php on line 17
